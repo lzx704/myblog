@@ -4,14 +4,6 @@ title:  "Welcome to markdown test!"
 date:   2017-08-28 23:26:40 +0800
 categories: jekyll update
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
 
 # Github博客如何使用
 
