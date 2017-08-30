@@ -25,7 +25,7 @@ github_username:  lzx704
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 # theme: jekyll-theme-cayman
 # theme: jekyll-theme-primer
 
