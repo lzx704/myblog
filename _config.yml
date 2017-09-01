@@ -1,12 +1,18 @@
-
-title: lzx704
-email: lzx704@126.com
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  it's lzx704 home
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-github_username:  lzx704
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
 # Build settings
 markdown: kramdown
@@ -16,11 +22,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
