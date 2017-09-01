@@ -7,6 +7,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  lzx704
 
+minima:
+  date_format: "%b %-d, %Y"
+
 # Build settings
 markdown: kramdown
 
